@@ -1,4 +1,5 @@
-![weather-1](https://github.com/nagarajushivapalli/react-weather-app/assets/156005165/6bb5a199-9a64-4d65-98b0-dca7765f7914)
+![weather-1](https://github.com/nagarajushivapalli/react-weather-app/assets/156005165/24c513f3-b2b4-415f-91d2-7bc701bbb203)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
